@@ -1,2 +1,2 @@
 # Numerical-Semigroups
-Scientific initiation on Number Theory and Combinatory.
+Scientific initiation on Number Theory and Combinatorics.
